@@ -1,0 +1,38 @@
+.container {
+  width: 100%;
+  margin: auto;
+  max-width: 1520px;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.previousBtn {
+  cursor: pointer;
+  padding: 10px;
+  background-color: #dadada;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+}
+
+.previousBtn:hover {
+  background-color: #c0c0c0;
+}

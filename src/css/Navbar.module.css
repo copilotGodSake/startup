@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1540px;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.h1 {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin-left: 90px;
+  cursor: pointer;
+}
+.signInBtn {
+  color: black;
+  background-color: #dadada;
+  font-size: 14px;
+  padding: 5px;
+  border: none;
+  cursor: pointer;
+  width: 100px;
+  border-radius: 10px;
+  margin-right: 30px;
+}
